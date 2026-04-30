@@ -1,0 +1,6 @@
+# Child repos — independently versioned, not tracked here
+rave-spec/
+rave-cli/
+ravegraph/
+rave-swamp/
+rave-v011-release/
